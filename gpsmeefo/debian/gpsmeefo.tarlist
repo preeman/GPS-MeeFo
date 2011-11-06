@@ -1,0 +1,37 @@
+# This file is created by MADDE 'dh_fixperms'.
+# MADDE 'dpkg-deb' uses this file when creating
+# 'data.tar.gz' for debian package ar archive.
+755 root root . ./opt /
+755 root root . ./opt/gpsmeefo /
+755 root root . ./opt/gpsmeefo/bin /
+755 root root . ./opt/gpsmeefo/bin/gpsmeefo debian/gpsmeefo/opt/gpsmeefo/bin/gpsmeefo
+755 root root . ./opt/gpsmeefo/qml /
+755 root root . ./opt/gpsmeefo/qml/gpsmeefo /
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/back.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/back.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/backW.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/backW.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/gpsradar.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/gpsradar.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/gpsradarW.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/gpsradarW.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/info.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/info.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/InfoPage.qml debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/InfoPage.qml
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/infoW.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/infoW.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/main.qml debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/main.qml
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/MainPage.qml debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/MainPage.qml
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/meego_gpsinfoqt.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/meego_gpsinfoqt.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/refresh.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/refresh.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/refreshW.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/refreshW.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/share.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/share.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/shareW.png debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/shareW.png
+644 root root . ./opt/gpsmeefo/qml/gpsmeefo/SplashPage.qml debian/gpsmeefo/opt/gpsmeefo/qml/gpsmeefo/SplashPage.qml
+755 root root . ./usr /
+755 root root . ./usr/share /
+755 root root . ./usr/share/applications /
+644 root root . ./usr/share/applications/gpsmeefo_harmattan.desktop debian/gpsmeefo/usr/share/applications/gpsmeefo_harmattan.desktop
+755 root root . ./usr/share/doc /
+755 root root . ./usr/share/doc/gpsmeefo /
+644 root root . ./usr/share/doc/gpsmeefo/changelog.gz debian/gpsmeefo/usr/share/doc/gpsmeefo/changelog.gz
+644 root root . ./usr/share/doc/gpsmeefo/copyright debian/gpsmeefo/usr/share/doc/gpsmeefo/copyright
+755 root root . ./usr/share/icons /
+755 root root . ./usr/share/icons/hicolor /
+755 root root . ./usr/share/icons/hicolor/80x80 /
+755 root root . ./usr/share/icons/hicolor/80x80/apps /
+644 root root . ./usr/share/icons/hicolor/80x80/apps/gpsmeefo80.png debian/gpsmeefo/usr/share/icons/hicolor/80x80/apps/gpsmeefo80.png

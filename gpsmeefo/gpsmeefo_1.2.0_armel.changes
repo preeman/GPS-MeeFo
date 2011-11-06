@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Sat, 17 Sep 2011 03:54:35 +1000
+Source: gpsmeefo
+Binary: gpsmeefo
+Architecture: armel
+Version: 1.2.0
+Distribution: unstable
+Urgency: low
+Maintainer: Dv8 Creations <nokia@dv8.com.au>
+Changed-By: unknown <>
+Description: 
+ gpsmeefo   - Application that displays additional GPS Information
+Changes: 
+ gpsmeefo (1.2.0) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ ff24e5d329ef2b0c7e2a6925506c47e41961b818 464906 gpsmeefo_1.2.0_armel.deb
+Checksums-Sha256: 
+ 99164dba6c6181ff5d22ea45181fed02664a443dfafc6a4aa150a836773a021b 464906 gpsmeefo_1.2.0_armel.deb
+Files: 
+ f5a56af10c501967817f2ed7942f6bf7 464906 user/other optional gpsmeefo_1.2.0_armel.deb
+Maemo-Display-Name: GPS MeeFo
